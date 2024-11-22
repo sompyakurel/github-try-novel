@@ -1,5 +1,0 @@
-This is a bunch of jibrish to learn git commit
-
-Changed somethings for GUI
-
-Adding a line
